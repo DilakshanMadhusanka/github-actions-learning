@@ -1,7 +1,7 @@
 ---
 name: 🎖️ Badge Submission
 about: Submit your completed tasks for badge review
-title: "🎖️ Badge Submission - [Your Name]"
+title: "🎖️ Badge Submission - Dilakshan Madhusanka"
 labels: ['submission', 'pending-review']
 assignees: ['nisalgunawardhana']
 ---
@@ -16,8 +16,6 @@ assignees: ['nisalgunawardhana']
 
 Type your level (type exactly as shown):
 - Type: **beginner** (Tasks 1-3)
-- Type: **intermediate** (Tasks 4-7)  
-- Type: **advanced** (Tasks 8-10)
 
 **My Level:** 
 
@@ -25,15 +23,15 @@ Type your level (type exactly as shown):
 
 ## 👤 Your Information
 
-**GitHub Username:** @[your-username]
+**GitHub Username:** @DilakshanMadhusanka
 
-**Contact Email (for updates):** you@example.com
+**Contact Email (for updates):** madhusankamrd@gmail.com
 
-**PR Link:** [Paste your pull request URL]
+**PR Link:** https://github.com/DilakshanMadhusanka/github-actions-learning/pull/1
 
-**Branch Name:** working-[level]-[yourname]
+**Branch Name:** working-beginner-dilakshanmadhusanka
 
-**Submission File:** .github/submissions/[level]-[yourname].md
+**Submission File:** .github/submissions/beginner-dilakshanmadhusanka.md
 
 ---
 
@@ -55,19 +53,6 @@ Before submitting, confirm:
 - Task 1: Hello World workflow ran ✓
 - Task 2: Push trigger worked ✓
 - Task 3: Local tests passed ✓
-
-**For Intermediate:**
-- Task 4: Custom workflow created ✓
-- Task 5: Environment variables used ✓
-- Task 6: Secrets accessed safely ✓
-- Task 7: Matrix testing worked ✓
-
-**For Advanced:**
-- Task 8: Artifacts uploaded/downloaded ✓
-- Task 9: Conditional execution worked ✓
-- Task 10: PR & issue templates used ✓
-
----
 
 ## 📝 Additional Notes
 
